@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-header{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/images/donation1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: linear-gradient (rgba(20,04,40,.8), (20,12,50,.6));
+}
+.header-container{
+    padding-top: 200px;
+    font-family: verdana;
+    align-items: center;
+    text-align: center;
+    margin: 0 180px;
+}
+/* .header-title span{
+    color: red;
+    margin-top: 50px;
+    padding-top: 100px; */
+.header-discription{
+    color:#FFF;
+    text-align: center;
+}
+.header-title{
+    font-size: 60px;
+    color:#FFF;
+    font-weight: 900px;
+    padding-bottom: 25px;
+}
+.btn-1 {
+    margin-top: 35px;
+}
+.btn{
+    border: 1px solid #FF5959;
+    border-radius: 5px;
+    background: #FF5959;
+    color: #fff;
+    padding: 8px 10px;
+    font-size: 20px;
+    font-weight: 600px;
+}
+        /* Donate today */
+
+
+.donate-today{
+    padding-top: 100px;
+    margin: 0 180px;
+}
+.donate-today-title{
+    text-align: center;
+    font-size: 45px;
+    
+}
+.donate-disciption{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+
+}
+.donate-mony {
+    justify-content: center;
+    display:flex;
+    gap: 20px;
+}
+.donat-sub {
+    background: rgb(239, 236, 236);
+    font-size: 40px;
+    padding: 30px 30px;
+    border-radius: 5px;
+}
+.donat-sub1{
+    background: #d4477b;
+    font-size: 40px;
+    padding: 30px 30px;
+    border-radius: 5px;
+    color:#FFF;
+    border: 3px solid black;
+}
+.amounta{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 300px;
+    padding-bottom: 20px;
+    
+}
+.btn-bonate {
+    margin-top: 40px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+  /* out donate plan  */
+.our-donate-plan{
+    margin: 0 180px;
+
+}
+.donate-plan{
+    padding-top: 120px;
+    text-align: center;
+    font-size: 45px;
+}
+.donate-plan-discription{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.our-donate-plan-sub{
+    display: flex;
+    gap: 25px;
+    /* padding: 50px 20px;
+    height: 280px; */
+}
+.donate-sub-item-1{
+    background: rgba(79, 157, 166, 0.1);
+
+    
+}
+.donate-sub-item-2{
+    background: rgba(255, 89, 89, 0.1);
+}
+.donate-sub-item-3{
+    background: #FFF4D6;
+
+
+}
+.sub-titel {
+    margin: 0 20px;
+    font-size: 25px;
+    font-weight: 500px;
+}
+.sub-discription{
+    margin: 20px 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.donate-sub-item-1 img {
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    padding: 20px 0;
+}
+.donate-sub-item-2 img {
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    padding: 20px 0;
+}
+.donate-sub-item-3 img {
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    padding: 20px 0;
+}
+
+/* donate plan sub section  */
+
+.donate-plan-sub-section {
+    display: flex;
+    gap: 35px;
+    margin: 0 180px;
+    padding: 180px 0px;
+}
+.depent-title{
+    font-size: 45px;
+    font-weight: 600px;
+    margin-top: 60px;
+    font-family: 'Inter';
+
+}
+.depent-title-1{
+    font-size: 45px;
+    font-weight: 600px;
+    font-family: 'Inter';
+    margin-bottom: 20px;
+
+}
+.depent-title-dis{
+    font-family: 'Poppins';
+    font-size: 18px;
+
+}
+.sub-section-btn{
+    margin-top: 30px;
+}
+    /* survive section  */
+
+.survive-main-section{
+    display: flex;
+    gap: 50px;
+    margin: 0 180px;
+}
+.depent-title-5{
+    font-family: 'Inter';
+    font-size: 55px;
+    font-weight: bold;
+}
+
+/* update section  */
+.updates{
+    margin: 0 180px;
+    padding-top: 120px;
+}
+.update-main-title{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800px;
+    font-family: 'Inter';
+
+}
+.update-main-discription{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Poppins'; 
+    font-size: 18OPX ;
+}
+.update-box{
+    height: 150px;
+    width: 100%;
+    background: #FFF4D6;
+    margin-top: 30px;
+    justify-content: center;
+}
+.update-box input{
+    margin-top: 80px;
+    margin-left: 360px;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    height: 30px;
+    width: 250px;
+    padding-left: 10px;
+}
